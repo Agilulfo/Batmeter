@@ -1,0 +1,11 @@
+sdptool browse
+rfcomm bind /dev/rfcomm0 00:06:66:00:66:23 
+minicom 
+
+
+
+PARTENZA IN AUTOMATICO
+
+Raw mode
+
+print mode
